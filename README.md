@@ -26,7 +26,8 @@ Docs
 * `docs/02_architecture_and_early_decisions.md`
 * `docs/03_glossary_and_core_contracts.md`
 * `docs/04_system_building_blocks_and_stance.md`
-* (next) `docs/05_first_milestone_checklist.md`
+* `docs/05_first_milestone_checklist.md`
+* `docs/06_roadmap.md`
 
 Status
 Kickoff phase: requirements + architecture docs, then first milestone planning.
